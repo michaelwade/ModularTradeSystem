@@ -1,6 +1,6 @@
 # ModularTradeSystem
 
-This is a modular trading system template for MQL4/MQL5. It contains multiple common modules, such as TradeSystemController, MoneyManager, OrderManager, SignalEngine, etc.
+This is a modular trading system template for MQL4/MQL5. It contains multiple common modules, such as TradeSystemController, MoneyManager...etc. Modular design can reduce system coupling and improve code reusability. Avoiding putting all code into one file will make us focus on writing the main logic. The following are the main modules of this trading system.
 
 - **TradeSystemController**
 
@@ -23,6 +23,13 @@ This is a modular trading system template for MQL4/MQL5. It contains multiple co
 - **EnvChecker**
 
 	It's responsible for checking the runtime environment before trading. Only allow trading when the environment is ok.
+
+
+# Next Features
+	
+- **ExitManager**
+
+	This module is going to manage all exit operations like setting StopLoss or TakeProfit and so on. 
 
 # Disclaimer
 
