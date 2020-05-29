@@ -1,5 +1,7 @@
 [English](https://github.com/michaelwade/ModularTradeSystem/blob/master/README.md)
 
+[我的博客](https://blog.csdn.net/woshiwangbiao/article/details/106414608)
+
 # 模块化交易系统
 
 这是一个基于MQL4/MQL5的模块化交易系统模板。它包含多个常用模块，如交易系统控制中心，资金管理模块，订单管理模块...等等。模块化设计可以减少系统的耦合度，并且提高代码的可重用性。避免将所有代码放入一个文件中，可以使我们更专注于编写主要业务逻辑。下面是本交易系统的几大主要模块：

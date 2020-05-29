@@ -1,4 +1,5 @@
-[中文版](https://github.com/michaelwade/ModularTradeSystem/blob/master/README-CN.md)
+[中文版](https://github.com/michaelwade/ModularTradeSystem/blob/master/README-CN.md)  
+[MyBlog](https://blog.csdn.net/woshiwangbiao/article/details/106414608)
 
 # ModularTradeSystem
 This is a modular trading system template for MQL4/MQL5. It contains multiple common modules, such as TradeSystemController, MoneyManager...etc. Modular design can reduce system coupling and improve code reusability. Avoiding putting all code into one file will make us focus on writing the main logic. The following are the main modules of this trading system.
