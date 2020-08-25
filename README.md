@@ -6,6 +6,8 @@
 
 	1. Rebuild the architecture to make the coupling degree between different trading systems is lower. And Only two lines of code you need to compile different trading systems.
 	2. Provide a new Trading System which contains Martingale strategy.
+	
+![](https://github.com/michaelwade/ModularTradeSystem/blob/master/StrategyTester_water_martin.gif)
 
 # ModularTradeSystem
 This is a modular trading system template for MQL4/MQL5. It contains multiple common modules, such as TradeSystemController, MoneyManager...etc. Modular design can reduce system coupling and improve code reusability. Avoiding putting all code into one file will make us focus on writing the main logic. The following are the main modules of this trading system.
