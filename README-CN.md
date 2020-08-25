@@ -7,6 +7,8 @@
 
 	1. 重构了整个项目架构，使不同系统之间耦合度更低，两行代码就可以编译出不同的交易系统。
 	2. 提供了一个新的交易系统，使用了马丁格尔策略。
+
+![](https://github.com/michaelwade/ModularTradeSystem/blob/master/StrategyTester_water_martin.gif)
 	
 	
 # 模块化交易系统
